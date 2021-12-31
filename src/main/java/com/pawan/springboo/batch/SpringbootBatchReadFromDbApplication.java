@@ -11,4 +11,4 @@ public class SpringbootBatchReadFromDbApplication {
 	}
 }
 
-//https://dzone.com/articles/spring-transaction-propagation
+///https://dzone.com/articles/spring-transaction-propagation
