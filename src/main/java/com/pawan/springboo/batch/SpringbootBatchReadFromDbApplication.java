@@ -10,5 +10,5 @@ public class SpringbootBatchReadFromDbApplication {
 		SpringApplication.run(SpringbootBatchReadFromDbApplication.class, args);
 	}
 }
-
+//into new branch
 ///https://dzone.com/articles/spring-transaction-propagation
