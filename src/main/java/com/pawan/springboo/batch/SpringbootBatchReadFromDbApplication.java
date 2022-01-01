@@ -10,5 +10,9 @@ public class SpringbootBatchReadFromDbApplication {
 		SpringApplication.run(SpringbootBatchReadFromDbApplication.class, args);
 	}
 }
+//into new master
+//into new master
+//into new master
+//into new master
 
 ///https://dzone.com/articles/spring-transaction-propagation
